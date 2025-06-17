@@ -1,0 +1,3 @@
+This is a code made within pycharm and using python to create a Graphical User Interface within which you can do scientific calculations by using the mouse to select symbols and numbers to enter values into the text field , you can also use the keyboard when you focus on the text field by clicking on the text field. 
+After entering the expression you want to evaluate , click the = button on the bottom to get the result and having the current expression being saved on the history side 
+History tab will contain 10 of the past expressions made , you can click on any of the expressions to get the expression back to the text field replacing the expression that was present 
